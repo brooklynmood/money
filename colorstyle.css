@@ -1,0 +1,10 @@
+body {background: #d42721;font-family: arial;
+color: #e5e8eb}
+h1 {font-size: 50px;
+}
+p {color: #e5e8eb; }
+a {color: #bccdd9; text-decoration: underline;
+	text-decoration-color:#e5e8eb }
+a:hover {
+	color: #000000;
+	text-decoration: underline;}
